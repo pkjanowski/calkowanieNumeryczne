@@ -1,0 +1,10 @@
+Program oblicza numerycznie ca³ki trzema metodami: prostok¹tów, trapezów i 1/3 Simpsona.
+Funkcja, z której ca³ka bêdzie obliczana MUSI BYC WIELOMIANEM. 
+W pliku "wspolczynniki.txt" wprowadz wspolczynniki wielomianow.
+Ka¿dy wspolczynnik musi znajdowac sie w nowej linii. Wspolczynniki wprowadzamy od tego, ktory stoi przy najwyzszej potedze. Na przyklad wielomianu 2x^3+x-2:
+
+2
+0
+1
+-2
+

@@ -1,0 +1,1 @@
+float wzor(float x);

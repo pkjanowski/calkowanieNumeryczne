@@ -1,0 +1,1 @@
+void zapis(float x);
